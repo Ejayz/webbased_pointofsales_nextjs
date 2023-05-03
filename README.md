@@ -1,0 +1,1 @@
+# webbased_pointofsales_nextjs
